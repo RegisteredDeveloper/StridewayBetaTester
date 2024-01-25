@@ -1,5 +1,7 @@
 {
     "users":[
-        22725531, //Fo_nz: Bought horse tech
+        1580834215, // @vilxiaa
+        3421485904, // @FoolishEquestrian
+        1994595371, // @RegisteredDev
     ],
 }
